@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="cassette">
+	<schema id="io.github.igor_dyatlov.Cassette" path="/io/github/igor_dyatlov/Cassette/">
+	</schema>
+</schemalist>

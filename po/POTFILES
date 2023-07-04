@@ -1,0 +1,6 @@
+data/io.github.igor_dyatlov.Cassette.desktop.in
+data/io.github.igor_dyatlov.Cassette.appdata.xml.in
+data/io.github.igor_dyatlov.Cassette.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
